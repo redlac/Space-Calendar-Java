@@ -9,7 +9,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
-//TODO:Set utf-8 encoding on final write out.
 public class ReadWithScanner {
 
 	private Path fFilePath;
